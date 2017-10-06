@@ -1,7 +1,7 @@
 # The main function. This one takes an table containing 2 columns (DateTime, Temperature Values) and determines off/on bouts to create a bof object.
 
 # rm(list=ls())
-
+#
 # Debugger
 # object <- read.table("data/DayData.csv", header = TRUE, sep = ",")
 # pos=2; control=NA; pT=1; nT=-1.4; plag=2; nlag=2; obs.lag=2; time.format="%Y-%m-%d %H:%M:%S" ;crit=1; inctemp = 25; nwindow = 5; pwindow = 6; nullwindow = 1
